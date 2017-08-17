@@ -1,0 +1,237 @@
+# Webalizer V2.21-02 Incremental Data - 08/16/2017 16:59:00
+2017 8 16 16 59 0
+339 266 12 20 5 14 16911166 76 19 0
+3 6 93 2 16
+0 0 0 0 0 0
+135 104 8389219 1 17 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 17 866083 1 3 1
+3 1 6266 1 3 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+18 16 860869 1 3 1
+2 1 6266 1 2 1
+92 71 2837639 5 33 6
+0 0 0 0 0 0
+0 0 0 0 0 0
+46 37 2376416 2 8 3
+24 19 1568408 3 7 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+20 16 861287 5
+0 0 0 0
+20 18 896013 3
+20 18 1475189 4
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+18 16 860748 3
+0 0 0 0
+0 0 0 0
+3 1 6266 3
+6 1 5214 1
+119 93 6911778 19
+72 62 3343223 18
+14 4 778952 5
+0 0 0 0
+26 19 900147 10
+2 1 6266 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+19 17 866083 3
+0
+0
+0
+266
+0
+0
+0
+0
+0
+0
+0
+8
+19
+0
+29
+0
+0
+0
+0
+0
+0
+17
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/gartbistro/images/back_mobile.jpg
+0 11 0 666878 0 0
+/
+0 7 0 36342 7 0
+/gartbistro/images/favicon.png
+0 32 0 145992 0 0
+/gartbistro/assets/jquery.js
+0 12 0 1117284 0 0
+/gartbistro/images/lab.jpg
+0 14 0 4181450 0 0
+/gartbistro/assets/animate/set.css
+0 12 0 288636 0 0
+/gartbistro/assets/gallery/jquery.blueimp-gallery.min.js
+0 12 0 378768 0 0
+/gartbistro/assets/respond/respond.js
+0 12 0 121968 0 0
+/gartbistro/images/back.jpg
+0 15 0 5782873 0 0
+/gartbistro/
+0 42 0 517015 3 7
+/gartbistro/images/favicon.ico
+0 9 0 38574 0 0
+/gartbistro/assets/bootstrap/css/bootstrap.min.css
+0 12 0 1314216 0 0
+/gartbistro/fonts/icomoon.ttf
+0 13 0 53716 0 0
+/gartbistro/assets/mobile/touchSwipe.min.js
+0 12 0 137004 0 0
+/gartbistro/assets/gallery/blueimp-gallery.min.css
+0 12 0 81780 0 0
+/gartbistro/assets/animate/animate.css
+0 12 0 700560 0 0
+/gartbistro/assets/bootstrap/js/bootstrap.js
+0 12 0 702396 0 0
+/gartbistro/assets/style.css
+0 18 0 133740 0 0
+/gartbistro/images/logo.png
+0 14 0 390663 0 0
+/gartbistro/assets/wow/wow.min.js
+0 12 0 84756 0 0
+# End Of Table - urls
+# -sites- (monthly)
+194.166.131.150
+0 19 18 1500026 1 1502766192
+/gartbistro/
+178.165.130.137
+0 3 1 6266 1 1502022170
+/
+149.154.167.167
+0 3 1 16983 1 1502561879
+/gartbistro/
+217.149.161.217
+0 1 0 209 1 1502499349
+/
+84.115.240.28
+0 247 192 12080535 8 1502802438
+/gartbistro/
+213.225.13.108
+0 2 1 6266 1 1502901358
+/
+146.185.5.195
+0 2 1 6266 1 1502479197
+/
+178.113.245.127
+0 1 0 209 1 1502497581
+/
+84.115.206.29
+0 20 17 866181 1 1502561930
+-
+84.115.204.95
+0 18 16 860748 1 1502874558
+/gartbistro/
+84.115.206.50
+0 19 17 866083 1 1501976174
+/gartbistro/
+84.115.204.215
+0 4 2 701394 1 1502901047
+/gartbistro/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+213.225.13.108
+0 2 1 6266 1 1502901358
+/
+84.115.204.95
+0 18 16 860748 1 1502874558
+/gartbistro/
+84.115.204.215
+0 4 2 701394 1 1502901047
+/gartbistro/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 95
+http://www.gartbistro.at/gartbistro/assets/style.css
+1 66
+android-app://com.google.android.googlequicksearchbox
+0 1
+android-app://org.telegram.messenger
+0 1
+http://www.gartbistro.at/gartbistro/
+1 176
+# End Of Table - referrers
+# -agents- 
+TelegramBot (like TwitterBot)
+0 3
+Mozilla/5.0 (Linux; Android 7.0; SM-G925F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Mobile Saf
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
+0 32
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36
+0 19
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+0 19
+Mozilla/5.0 (Linux; Android 7.0; SM-G920F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Sa
+0 86
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G903F Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/5.4 C
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Safari/537.36 Vivaldi/1.91.86
+0 146
+Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G935F/G935FXXU1DQEI Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungB
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.104 Mobile Saf
+0 3
+Mozilla/5.0 (Linux; Android 7.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; E2303 Build/26.3.A.1.33) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobil
+0 20
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
