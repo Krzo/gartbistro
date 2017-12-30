@@ -1,0 +1,16 @@
+1.Projektteam: Alle auflisten und was sie machen <<<< fertig
+2.GartBistro: Allgemeine Informationen sammeln  <<<< fertig 
+3.Projektauftrag: Siehe Doku beispiel <<<< fertig
+4.Projektzielplan: Ziele auflisten <<<< fertig
+5.Projektrollen zuordnen <<<<< fertig
+6.Projektorganigramm erstellen <<<<< fertig
+7.Zeitplan verbessern <<<< angefangen noch nicht fertig
+8.Risikoanalyse
+9.Lösungen Vor und Nachteile (Mjam Lieferservice)
+10.Auflistung der Verwendeten Technologien
+11.Technologien die für Design benutzt wurden auflisten
+12.Autorisierung --> Benutzerrollen
+13.Registrierung Sequenzdiagramm
+14.Registrierung Aktivitätendiagramm
+15.Ablauf Bestellung mittels Aktivitätendiagramm
+16.Alle Hilfsmittel sammeln 
